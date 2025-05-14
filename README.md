@@ -24,7 +24,17 @@ Github && MooMoo
 2@. Need a Supporter to help fund my research 
 21. Will build private, public, anything Good.
 22. Grey Hat Hacksr
-23. Nit on BS, unless you bring it to me
+23. Linux
+23. Kali
+24. Web Development 
+25. Pen Testing 
+26. Vulnerability Testing
+27. Education 
+27. Will Write Books one day
+28. Stock Market Analyst 
+29. Apis
+30. Termux, but just lost one 😢 
+31. Researcher 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
