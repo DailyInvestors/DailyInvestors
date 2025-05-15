@@ -51,3 +51,6 @@ Every seen the stories, on all these different shows to where the victim will co
 
 
 Next NOTE: I purposley didnt place all my Python Notes. While im getting hammered, dismounted on my UNLOCKED SYSTEMS. Today, only PYTHON!
+Whats crazy, got so many people in my personal life, lieing, everyone taking the same stories. But actions speak louder then words. Persistence is what
+got me this far on one of my "Personal Research Projects". However, the have no clue what Technology is, what I know, anything. These people stole a few of my school notes, probably learned a few tools. But why these people joke around, lie,../../../etc/ I am just getting that much better. While they are wasting time, and I take it they are purposley trying to hurt me. Several outside sources will agree and confirm. But that nice guy is still here, and what they will have instore. My future movie and book about MY LIFE. Crasiest stories ive ever seen, heard. Who else has been in the worst prisons in America, had Grandfathers that started Churches all over the Globe. Why everyone trys to stop and ruin my work, Thank You for being my motivation to continue tpo Better Myself, and Helpo those around me. Cus once I make it, I will never look back. 
+The Sky is The Limit, and the cloud is what? 20 layers closer haha
