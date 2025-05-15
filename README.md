@@ -48,3 +48,6 @@ Note: Some of you may know a little about all the issues that I am facing. One I
 Risk Management, and focusing on Cyber Security and Pen Testing, one of the events will be ending soon. Either way, im about to figure it all out,
 caught and verified several connections to where their story or alibi does not match. As these local know nothing about me, and I do have valuable resources around me, that I have kept a secret. This part of the show, will be soon purged. My research side of Team Daily, about to expose everything.
 Every seen the stories, on all these different shows to where the victim will confront the attackers right at their door in the act. About to do the same. And to all of my 12,000 trackers this Morning. To the few of you that keep dismounting me, trying to ruin my work, and progress. I have each of you caught in so many different ways. You dont have to have termux, nethunter, to run sock5 proxies, run tunnels to see everything. Got several companies that are helping me. So @ lol, Im not afraid of war especially a Cyber War. But with the way my life is, who has more to loose?????
+
+
+Next NOTE: I purposley didnt place all my Python Notes. While im getting hammered, dismounted on my UNLOCKED SYSTEMS. Today, only PYTHON!
