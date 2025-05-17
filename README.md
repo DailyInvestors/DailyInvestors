@@ -35,6 +35,13 @@ Github && MooMoo
 29. Apis
 30. Termux, but just lost one 😢 
 31. Researcher 
+32. Android Studio
+33. adb bootloader 
+34. Wireless Debuging 
+35. Remote Repairs
+36. Patches
+37. Custom Security 
+38. Mobile Debuging 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
