@@ -42,6 +42,19 @@ Github && MooMoo
 36. Patches
 37. Custom Security 
 38. Mobile Debuging 
+39. Google Expert
+40. Cloudflare
+41. Apache2
+42. curl, wget, perl
+43. Security Agents
+44. Python Custom Security 
+45. Websites 
+46. Tracking Cookies 
+47. Background Checks
+48. Author 
+49. Fraud Investigation Research 
+50. Server Maintenance 
+51. Shell Removal 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
