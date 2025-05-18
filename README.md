@@ -70,7 +70,9 @@ Github && MooMoo
 52. Intrusion Detection Systems 
 53. R2 Buckets 
 54. Custom Emergency USBs 
-55. Chroot Repairs on Rootkits 
+55. Chroot Repairs on Rootkits
+56. Ssh Repairs
+57. Transfer Security for FTP, SMTP, Telnet, etc
 24. Tryong to Start a 
 DEVELOPERS UNION
 
