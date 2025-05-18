@@ -95,6 +95,9 @@ Github && MooMoo
 77. Remote Website Uploads & Secure Downloads
 78. Custom Engines
 79. Custom API Security 
+80. Network Tracing
+81. Python for Mobile
+82. AI Research 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
