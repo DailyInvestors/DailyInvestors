@@ -74,6 +74,18 @@ Github && MooMoo
 56. Ssh Repairs
 57. Transfer Security for FTP, SMTP, Telnet, etc
 58. Block chain & Crypto Signer/Verifier 
+59. Vanilla
+60. Vue.js
+61. msfconsole
+62. nginx
+63. Human Research 
+64. Information Gathering
+65. Product Testing Expert
+66. Professional Reviews 
+67. Network Monitoring & Repairs
+68. Home Security 
+69. Small Business Security 
+70. Employee Investigations
 24. Tryong to Start a 
 DEVELOPERS UNION
 
