@@ -119,6 +119,14 @@ Github && MooMoo
 1@0. Self-Learning Anti-Spam Robots
 1@1. Note: As Akamai Technology has attacked me 1000+ times, I will not work with their clients. However I will beat all their quotes by 75%
 1@2. Mongodb
+1@3. Custom Sanitizers
+1@4. Chrome Browswr Local Sanitizers
+1@5. Custom Rate Limtera
+1@6. Remote Logging
+1@7. Linux Firewalls
+108. PFSense Firewalls
+1@9. Lynis
+11@. RkHunter
 24. Tryong to Start a 
 DEVELOPERS UNION
 
