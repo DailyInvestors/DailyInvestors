@@ -117,6 +117,7 @@ Github && MooMoo
 99. DNS Flushing $5 per host/domain/ip
 100. Purging full system cleanser with documentation per file.
 1@0. Self-Learning Anti-Spam Robots
+1@1. Note: As Akamai Technology has attacked me 1000+ times, I will not work with their clients. However I will beat all their quotes by 75%
 24. Tryong to Start a 
 DEVELOPERS UNION
 
