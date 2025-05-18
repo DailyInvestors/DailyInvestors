@@ -55,6 +55,8 @@ Github && MooMoo
 49. Fraud Investigation Research 
 50. Server Maintenance 
 51. Shell Removal 
+52. Api Testing
+53. Code Execution Testing
 24. Tryong to Start a 
 DEVELOPERS UNION
 
