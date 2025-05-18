@@ -57,6 +57,12 @@ Github && MooMoo
 51. Shell Removal 
 52. Api Testing
 53. Code Execution Testing
+54. Service Agents
+53. IAM
+54. Cloud
+55. Custom VPNs
+56. Honey Decoys
+57. Custom Linux Devices 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
