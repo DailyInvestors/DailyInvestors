@@ -1,4 +1,4 @@
-Whoami??? I go by my profile nicknames and website "Daily Investors", with a s. Went to college for Cyber Security. Studied for Years, and Years tons if certifications, and got tons of books to go. To be honest fresh to the field in a way. Did labs in school, and got tons of different systems. 
+Whoami??? I go by my profile nicknames and website "Daily Investors", with a s. Went to college for Cyber Security. Studied for Years, and Years tons of certifications, and got tons of books to go. To be honest fresh to the field in a way. Did labs in school, and got tons of different systems. 
 1. Python 
 2. node.js
 3. JavaScript 
