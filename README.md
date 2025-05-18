@@ -98,6 +98,24 @@ Github && MooMoo
 80. Network Tracing
 81. Python for Mobile
 82. AI Research 
+83. Nessus
+84. Reverse Engineering 
+85. Physcholgy 
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.
 24. Tryong to Start a 
 DEVELOPERS UNION
 
