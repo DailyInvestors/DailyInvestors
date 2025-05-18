@@ -19,7 +19,7 @@ Github && MooMoo
 16. Cyber Security 
 17. Robots
 18. Self-Learning 
-19. Surviving Month Long assaults, lost two systems, but rebuilt them back.
+19. Surviving Month Long assaults, lost two systems, but rebuilt them back from Bare-Metal.
 20. Stil got years yo go
 2@. Need a Supporter to help fund my research 
 21. Will build private, public, anything Good.
@@ -69,6 +69,8 @@ Github && MooMoo
 51. Visual Studio
 52. Intrusion Detection Systems 
 53. R2 Buckets 
+54. Custom Emergency USBs 
+55. Chroot Repairs on Rootkits 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
