@@ -108,8 +108,8 @@ Github && MooMoo
 90. Custom Built Systems
 91. Dr.web
 92. Hyden BootCD
-93. Hydra/John
-94.
+93. Hydra/John/HashCat
+94. Custom Encryptions 
 95.
 96.
 97.
