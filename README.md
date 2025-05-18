@@ -65,6 +65,10 @@ Github && MooMoo
 57. Custom Linux Devices 
 58. Account Retrieval 
 59. Custom Cookies, Token, Certificate Security 
+50. SEIM Security 
+51. Visual Studio
+52. Intrusion Detection Systems 
+53. R2 Buckets 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
