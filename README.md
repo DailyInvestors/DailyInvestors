@@ -87,6 +87,10 @@ Github && MooMoo
 69. Small Business Security 
 70. Employee Investigations
 71. @Intigriti my XSS game lol, ill be their studying soon lol
+72. Sql && sqlmap
+73. Php
+74. Json 
+75. Tampermonkey 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
