@@ -101,14 +101,14 @@ Github && MooMoo
 83. Nessus
 84. Reverse Engineering 
 85. Physcholgy 
-86.
-87.
-88.
-89.
-90.
-91.
-92.
-93.
+86. Android
+87. Android Studio
+88. Apple & Iphone
+89. Tablets
+90. Custom Built Systems
+91. Dr.web
+92. Hyden BootCD
+93. Hydra/John
 94.
 95.
 96.
