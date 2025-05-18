@@ -111,7 +111,7 @@ Github && MooMoo
 93. Hydra/John/HashCat
 94. Custom Encryptions 
 95. GO
-96.
+96. Custom Server && Server Security 
 97.
 98.
 99.
