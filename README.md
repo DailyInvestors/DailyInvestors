@@ -130,24 +130,5 @@ Github && MooMoo
 24. Tryong to Start a 
 DEVELOPERS UNION
 
-25. Looking to callab 
-Broke, but not Broken.
-Life is a Mystery, sometimes we all just got to 
-Go with the Flow
-💯
-
-Note: Some of you may know a little about all the issues that I am facing. One I do not lie, i will avoid a question but not lie. As I am starting a 
-Risk Management, and focusing on Cyber Security and Pen Testing, one of the events will be ending soon. Either way, im about to figure it all out,
-caught and verified several connections to where their story or alibi does not match. As these local know nothing about me, and I do have valuable resources around me, that I have kept a secret. This part of the show, will be soon purged. My research side of Team Daily, about to expose everything.
-Every seen the stories, on all these different shows to where the victim will confront the attackers right at their door in the act. About to do the same. And to all of my 12,000 trackers this Morning. To the few of you that keep dismounting me, trying to ruin my work, and progress. I have each of you caught in so many different ways. You dont have to have termux, nethunter, to run sock5 proxies, run tunnels to see everything. Got several companies that are helping me. So @ lol, Im not afraid of war especially a Cyber War. But with the way my life is, who has more to loose?????
-
-
-Next NOTE: I purposley didnt place all my Python Notes. While im getting hammered, dismounted on my UNLOCKED SYSTEMS. Today, only PYTHON!
-Whats crazy, got so many people in my personal life, lieing, everyone taking the same stories. But actions speak louder then words. Persistence is what
-got me this far on one of my "Personal Research Projects". However, the have no clue what Technology is, what I know, anything. These people stole a few of my school notes, probably learned a few tools. But why these people joke around, lie,../../../etc/ I am just getting that much better. While they are wasting time, and I take it they are purposley trying to hurt me. Several outside sources will agree and confirm. But that nice guy is still here, and what they will have instore. My future movie and book about MY LIFE. Crasiest stories ive ever seen, heard. Who else has been in the worst prisons in America, had Grandfathers that started churches all across the globe. Father was one of the Best Basketball Players ever out of the State of Indiana. In the past several years, have sat in city council meetings, and worked out with Senators and Mayors. Why I am different then the rest??? I have seen Hell, Been their my whole life sith a Devil and Angel on my shoulder. Seen grandparents as Preachers, To shootings at Gas Stations. My thinking, is not like amy of yours, and with your support of not. Im going to make it bazed on just then qualities. With my Psychology training, I can read you just off your body language. With my Reverse Engineering, My mind works totally different then yours. Add knowing all my history, and seeing so kuch in life, the bad. Karma is whare im at. Helping and securing the world. One day at a Time! I have already made History, nut with your support, We can continue to help the people that will never even know. 
-
-Explanation: So some of this above makes since. Basically in several Cyber Wars. Which I mean, its like wtf. My systems are unlocked. Nothing to brag about. But when money os on the line. Thats on one thing I dont play about. Then on top of it, not my security, not my client. Trying to make Honest money. And as I test, ill make a patch eventually for the same attack that just happened to me. For a year now, been getting hammered. And some how a Huge Target, like wtf is Daily 😆 
-Im that Mfr, that will come clean house. Im that mfr that aint scared to back down, deapite taking all my systems. Dr.web was Built for a Reason lol. But unlike all the malicious actors, im just trying to make Partnerships with everybody. Make money, but for us all. Their is definitely enough for everybody. But being a small business, and a sole proprietor every body thinks they can do me some type of way, and not have any consequence. And this is going not just for myself, but Billions All Across The Globe.
-
-
-Note: Every couple days, im building Project after Project. Each time, im steppong it up a notch. To all the few attacking ke, not the ones trying to help. Your about to start seeing how your going to get replaced. Whatever you do, ill make mine 10x better, and My stlye. Try to get me out of the way, About to get know in the Best Way 💯
+Just because im a good guy, Dont Mistake my Kindness for Weakness
+Capone
