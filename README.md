@@ -161,3 +161,6 @@ Open-Source Security Bots.
 22. So much more.
 23. Why sponsor me? Why Donate??
   Just Wait and See 🙈
+
+Note: Just got hit hard as FK. Password changed and all. But got logged into Bugcrowd. Reset my systems , tomorrow maybe the next. My reputation will be Built. 💯 
+Girls off today to, so perfect day for repairs and get everything reset up. 💯
