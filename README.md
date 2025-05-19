@@ -132,3 +132,32 @@ DEVELOPERS UNION
 
 Just because im a good guy, Dont Mistake my Kindness for Weakness
 Capone
+
+
+Goals: 
+
+1. Collect Bug Bounties on every one of your sites lol 💯 
+2. Dailys Daily News will eventually be at The Next Level 
+3. Will start making this sickest
+Open-Source Security Bots.
+4. Weekly Development Projects
+5. Consulting 
+6. Research 
+7. Write 10+ Books
+8. Will Eventually Teach my Own Education and Certificates
+9. Advertising 
+10. Microsoft 365 { Freelance }
+11. Develop on all Decentralized Crypto, taking stakes.
+12. Build on Every Platform, ZBD, etc.
+13. Get sponsored, but about to be self-sufficient again from Bounties.
+14. Home Security 
+15. Risk Management 
+16. 20+ Years, Start Rehabs, Sober Livings. I got clean myself, every program ive seen, A Joke. Reason I sue, to ensure the problem doesnt continue to the next person.
+17. Gov Research Contracts 🙏 one day.
+18.  Technology Shops across the US not for businesses but personal and homes.
+19. ONLINE Labs, Courses, Training
+20. Collab Projects 
+21. Prove everyone wrong in my life, that has always said "He cant do that". Thank you for being my hater, the one thing that makes me smile cus I know im not yal. I will do it, just to do it 💯 
+22. So much more.
+23. Why sponsor me? Why Donate??
+  Just Wait and See 🙈
