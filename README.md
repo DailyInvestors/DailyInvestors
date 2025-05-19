@@ -164,3 +164,6 @@ Open-Source Security Bots.
 
 Note: Just got hit hard as FK. Password changed and all. But got logged into Bugcrowd. Reset my systems , tomorrow maybe the next. My reputation will be Built. 💯 
 Girls off today to, so perfect day for repairs and get everything reset up. 💯
+
+Under Attack on all Lines 😆 
+Well be offline for a few days, qil come back with a sick little security robot.
