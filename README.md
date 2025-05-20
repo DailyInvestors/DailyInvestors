@@ -167,3 +167,7 @@ Girls off today to, so perfect day for repairs and get everything reset up. 💯
 
 Under Attack on all Lines 😆 
 Well be offline for a few days, qil come back with a sick little security robot.
+
+
+Note: Both Profiles Daily Investors && Dailys Daily News, are both kind of unorganized. However, I am under attack. That situation is about to be over.
+As I am growing into my career, tons of people will test me. Test me probably on a Daily Basis. However if I do work for anyone remote or physcial location. I will change networks, systems, etc to ensure your safety and Privacy. In this day and age with Cyber Attacks growing on a Daily Basis, if you help support it will be to continue my research and eventually hace the sickest Security App out their for Personal Use Only!
