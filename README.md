@@ -174,7 +174,7 @@ Work:
 
 
 
-WhoamI?? IAM owner of Cyborg Tek. IAM a Recovery Addict, I beat a 20+ year addiction. How? Picked up Books and Weights and threw the drugs 👇. IAM on a path to better Myself and Those Around Me. IAM open to collaborations. IAM a Firm Believer in Karma. IAM a Grey Hat Hacker. IAM looking for Contract/Freelance Work. IAM the one guy, that will help anyone back up. IAM the guy, everyone wants to label by looks. IAM the guy, that everyone tries to get over on. IAM that guy, that will ensure my Clients are safe and secure. IAM that guy from 20 years from now, that the Movie Directors will say im lieing about my life. IAM that guy that found a Higher Power. IAM that guy, that can Develop Anything. IAM that guy, that will develop your Project before asking for any payment. IAM that guy, that everyone gets mad at. IAM that guy that doesnt want to be the Alpha Male. But its always been like that. IAM that guy, thT will take a day to learn Anything for a Job. IAM that guy, that stands on his word. If you are suffering from any bugs, attacks, going through personal struggles and addiction, IAM that guy that will help you figure it all out. 
+WhoamI?? IAM owner of Cyborg Tek. IAM a Recovering Addict, I beat a 20+ year addiction. How? Picked up Books and Weights and threw the drugs 👇. IAM on a path to better Myself and Those Around Me. IAM open to collaborations. IAM a Firm Believer in Karma. IAM a Grey Hat Hacker. IAM looking for Contract/Freelance Work. IAM the one guy, that will help anyone back up. IAM the guy, everyone wants to label by looks. IAM the guy, that everyone tries to get over on. IAM that guy, that will ensure my Clients are safe and secure. IAM that guy from 20 years from now, that the Movie Directors will say im lieing about my life. IAM that guy that found a Higher Power. IAM that guy, that can Develop Anything. IAM that guy, that will develop your Project before asking for any payment. IAM that guy, that everyone gets mad at. IAM that guy that doesnt want to be the Alpha Male. But its always been like that. IAM that guy, thT will take a day to learn Anything for a Job. IAM that guy, that stands on his word. If you are suffering from any bugs, attacks, going through personal struggles and addiction, IAM that guy that will help you figure it all out. 
 
 Goals:
 1. About to make Extensions, Apps, Websites, Tools, everything.
@@ -194,5 +194,6 @@ Note: Currently my attackers are denying me access to any Special Media.
 14. Paid Research. If you want to knwo whT Im really doing on my Ten plus systems, My Data will cost.
 15. So much for short and simple.
 16. No Offense to any other Developers and Testers. You guys went through all this before me. Nothing Personal, just trying to figure out how to get paid.
+
 
  
