@@ -131,53 +131,68 @@ Github && MooMoo
 24. Tryong to Start a 
 DEVELOPERS UNION
 
-Just because im a good guy, Dont Mistake my Kindness for Weakness
-Capone
+"Just because im a good guy, Dont Mistake my Kindness for Weakness" ~~Al Capone~~~
 
 
-Goals: 
-
-1. Collect Bug Bounties on every one of your sites lol 💯 
-2. Dailys Daily News will eventually be at The Next Level 
-3. Will start making this sickest
-Open-Source Security Bots.
-4. Weekly Development Projects
-5. Consulting 
-6. Research 
-7. Write 10+ Books
-8. Will Eventually Teach my Own Education and Certificates
-9. Advertising 
-10. Microsoft 365 { Freelance }
-11. Develop on all Decentralized Crypto, taking stakes.
-12. Build on Every Platform, ZBD, etc.
-13. Get sponsored, but about to be self-sufficient again from Bounties.
-14. Home Security 
-15. Risk Management 
-16. 20+ Years, Start Rehabs, Sober Livings. I got clean myself, every program ive seen, A Joke. Reason I sue, to ensure the problem doesnt continue to the next person.
-17. Gov Research Contracts 🙏 one day.
-18.  Technology Shops across the US not for businesses but personal and homes.
-19. ONLINE Labs, Courses, Training
-20. Collab Projects 
-21. Prove everyone wrong in my life, that has always said "He cant do that". Thank you for being my hater, the one thing that makes me smile cus I know im not yal. I will do it, just to do it 💯 
-22. So much more.
-23. Why sponsor me? Why Donate??
-  Just Wait and See 🙈
-
-Note: Just got hit hard as FK. Password changed and all. But got logged into Bugcrowd. Reset my systems , tomorrow maybe the next. My reputation will be Built. 💯 
-Girls off today to, so perfect day for repairs and get everything reset up. 💯
-
-Under Attack on all Lines 😆 
-Well be offline for a few days, qil come back with a sick little security robot.
+Background:
+1. Cyber Security: University of Phoenix.
+2. LinkedIn Learning. 
+3. Open-Source.
+4. Self-Taught. 
 
 
-Note: Both Profiles Daily Investors && Dailys Daily News, are both kind of unorganized. However, I am under attack. That situation is about to be over.
-As I am growing into my career, tons of people will test me. Test me probably on a Daily Basis. However if I do work for anyone remote or physcial location. I will change networks, systems, etc to ensure your safety and Privacy. In this day and age with Cyber Attacks growing on a Daily Basis, if you help support it will be to continue my research and eventually hace the sickest Security App out their for Personal Use Only!
-
-
-
-
-Note: Coincidence. First I graduated college several months back, trying my hardest to change my life. Well went to take my CSCu test, I have proof. Everytime I did it said my vouchure wasnt good. Next i contact all parties involved. The school says its good, so did the ECC Board. Next I was already approved by the Gov for my Doctors. To be the first person in my family to be considered a Dr. Well I said fk the CSCu wasnt even what i wanted to go to school for. Counselors their didnt help at all. Next my vouchure was revoked. Still have several months to take it.Then all of a sudden my funding got canceled, the school got on BS. Blamed it on Elon MUsk and Trump. asl my chat groups, got evidence on over 100 platforms. Now my Github education. Keot havinfg error after error while I was in college. I can pinoint the teacher/course, etc. Made complaints with several states, BBB, etc. Now all of it just happened again today. My entire life I always get judged by how I look, or what I did when I was 12 years old. I did 12 years in prsion, arrested on my 21st birthday, because my best friend beat on his girl and told on me. Never did I steal,. nothing. I have been framed several times in my life. My grandparents def were Preachers, I def dont and never have been bad business. My entire life ill help the little people, and if anything bully the bully. But never even on that. My entire life, my family, etc never once believed in me. My mom did, but died when I was 12. Doctors fault, they didnt do gtheir job and run labs. As i grow into myself, who GOD made me. The devil is throwing BS at every corner. For one even as a Cyber Security Specialist, I will never wont gov clearance. Not my problem. I just try to always do the right thing, but every where I go, people mistake my kindness for a weakness. I have cops beat me down, arrest me for things I have never did. Been setup, and did my time. Got a lawyer who made tons bogus Promises, and another lawyer who will verify it. Got another attorney that doesnt know how to respond. Wrote emails to the ACLu, and letters. Never a response. My dad died over a year ago, and I havent changed who I am! Everyone wants to judge people by paper, by history. History doesnt have to repeat itself. ANd now got HAters on every side coming at me, Billion Dollar corporations hacking into my cameras in my bedroom? For what? Cus i learned something , am I doing any BS at all? Technically havmt been ion trouble for years, graduated college, and I will keep going and learning and helping anyone I can. But once again the "Daily" life of Daily.
+Work:
+1. Cyber Security Consulting.
+2. Risk Management. 
+3. System Hardenings. 
+4. Intrusion Detection Systems.
+5. Developing Anythig.
+6. Remote Repairs.
+7. Remote Collaboration.
+8. Vulnerability Scanning. 
+9. Small Business Security. 
+10. Personal Device Security. 
+11. Stock Market Analysis. 
+12. System Purging.
+13. Data Center Security. 
+14. API Testing.
+15. Custom Research. 
+16. Cyber Security Educational Courses.
+17. Secure Transfers
+18. Custom Hashes
+19. Custom Python Security 
+20. Robots
+21. Agents
+22. AI's
+23. Pen Testing
+24. Books and Docs
+25. Bug Hunting
+26. Collab Testing
+27. Advertising 
+28. Marketing 
+30. Source Code Debugging
 
 
 
-FYI: I am in a Major Lawsuit, and my attroney got blocked. Real Case, I dont have to lie to kick it. People died in that rehab, I went four days with nurses saying I took my medication, but low key they were stealing it and selling it. Getting high inside the building, but im a smart honest guy, each time. Wrote a piece of paper and walked straight to the camera, and told the owners save it for court. But some of my attacks could be retailation from that? Who really knows, and aint even worth my time to worry about it. Got better things to do, and rebuild my life with my Higher Power, take care of my family. Even one day if i do contract from our gov, I would never do the things that are happening to me, to my worst enemey.
+WhoamI?? IAM owner of Cyborg Tek. IAM a Recovery Addict, I beat a 20+ year addiction. How? Picked up Books and Weights and threw the drugs 👇. IAM on a path to better Myself and Those Around Me. IAM open to collaborations. IAM a Firm Believer in Karma. IAM a Grey Hat Hacker. IAM looking for Contract/Freelance Work. IAM the one guy, that will help anyone back up. IAM the guy, everyone wants to label by looks. IAM the guy, that everyone tries to get over on. IAM that guy, that will ensure my Clients are safe and secure. IAM that guy from 20 years from now, that the Movie Directors will say im lieing about my life. IAM that guy that found a Higher Power. IAM that guy, that can Develop Anything. IAM that guy, that will develop your Project before asking for any payment. IAM that guy, that everyone gets mad at. IAM that guy that doesnt want to be the Alpha Male. But its always been like that. IAM that guy, thT will take a day to learn Anything for a Job. IAM that guy, that stands on his word. If you are suffering from any bugs, attacks, going through personal struggles and addiction, IAM that guy that will help you figure it all out. 
+
+Goals:
+1. About to make Extensions, Apps, Websites, Tools, everything.
+2. Courses
+3. Books
+4. A actually Shop and several Locations.
+5. To let The World here my stories, in hope it will help the next.
+6. Hunting my Trophy now.
+7. Run my Own Bug Testing Platform, as I see how everyone else is doing . I wouldnt do anything like any of them.
+8. Worlds Best Security Agents for Private Use 
+9. Advertising & Marketing
+Note: Currently my attackers are denying me access to any Special Media.
+10. Youtube Channel
+11. LinkedIn Learning Videos
+12. Youl just have to wait and See.
+13. Consult with the Gov, on their Security. As I stated, my criminal past, my college training, my Religious Upbrining, makes me nothing like any of you.
+14. Paid Research. If you want to knwo whT Im really doing on my Ten plus systems, My Data will cost.
+15. So much for short and simple.
+16. No Offense to any other Developers and Testers. You guys went through all this before me. Nothing Personal, just trying to figure out how to get paid.
+
+ 
