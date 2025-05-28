@@ -196,4 +196,6 @@ Note: Currently my attackers are denying me access to any Special Media.
 16. No Offense to any other Developers and Testers. You guys went through all this before me. Nothing Personal, just trying to figure out how to get paid.
 
 
- https://calendar.app.google/iwTo4mvg6SBrojiF8
+Playing with Hooks. To contact me via, go through "Github", first. If you violate their polciy and book before Sponsoring, their will be no  discussions at all.
+
+https://calendar.app.google/iwTo4mvg6SBrojiF8
