@@ -128,6 +128,7 @@ Github && MooMoo
 1@9. Lynis
 11@. RkHunter
 111. AWS/ PUKA
+112. AI Product Security: Testing, Validation, Maintenance 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
