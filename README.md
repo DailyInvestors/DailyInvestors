@@ -129,50 +129,10 @@ Github && MooMoo
 11@. RkHunter
 111. AWS/ PUKA
 112. AI Product Security: Testing, Validation, Maintenance 
+1|³ AI LLM-Security
 24. Tryong to Start a 
 DEVELOPERS UNION
 
 "Just because im a good guy, Dont Mistake my Kindness for Weakness" ~~Al Capone~~~
 
 
-Background:
-1. Cyber Security: University of Phoenix.
-2. LinkedIn Learning. 
-3. Open-Source.
-4. Self-Taught. 
-
-
-Work:
-1. Cyber Security Consulting.
-2. Risk Management. 
-3. System Hardenings. 
-4. Intrusion Detection Systems.
-5. Developing Anythig.
-6. Remote Repairs.
-7. Remote Collaboration.
-8. Vulnerability Scanning. 
-9. Small Business Security. 
-10. Personal Device Security. 
-11. Stock Market Analysis. 
-12. System Purging.
-13. Data Center Security. 
-14. API Testing.
-15. Custom Research. 
-16. Cyber Security Educational Courses.
-17. Secure Transfers
-18. Custom Hashes
-19. Custom Python Security 
-20. Robots
-21. Agents
-22. AI's
-23. Pen Testing
-24. Books and Docs
-25. Bug Hunting
-26. Collab Testing
-27. Advertising 
-28. Marketing 
-30. Source Code Debugging
-
-
-
-WhoamI?? IAM owner of Cyborg Tek, the Brokest Developer ever 😂 😢. They say history has a way to repeat itself. I jave survived death, more then the fingers on my ✋👌. They say once a Person is a addict, they are always a addict. I beat my addiction, and I wont ever classify myself as that again. IAM that static, that keeps breaking through, living and learning with Karma watching my back. Most people have to lie to kick it, that has never been me. If you want to collab on some apps, extensions, sites, Authorized Red Teaming, or want literally anything Built, just ask. GitHub knows hows to get to me. 
