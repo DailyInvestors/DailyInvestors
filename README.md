@@ -135,6 +135,9 @@ Github && MooMoo
 24. Tryong to Start a 
 DEVELOPERS UNION
 
+
+Note: My Headline is against one Company, not against the programs, or other staff that work for this Organization. But instead if me posting something on a Blog. They way they are deliberately doing me, Ill ensure the World knows, cus it is happening to millions of others, they just dont know hiw to capture it, or their rights they have as a Individual or Business. 
+
 "Just because im a good guy, Dont Mistake my Kindness for Weakness" ~~Al Capone~~~
 
 
