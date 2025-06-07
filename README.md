@@ -130,6 +130,8 @@ Github && MooMoo
 111. AWS/ PUKA
 112. AI Product Security: Testing, Validation, Maintenance 
 1|³ AI LLM-Security
+114. Certified now in Prompt Injections 
+115. Certified now for Stealth Enumertions 100++++
 24. Tryong to Start a 
 DEVELOPERS UNION
 
