@@ -138,6 +138,10 @@ DEVELOPERS UNION
 
 Note: My Headline is against one Company, not against the programs, or other staff that work for this Organization. But instead if me posting something on a Blog. They way they are deliberately doing me, Ill ensure the World knows, cus it is happening to millions of others, they just dont know hiw to capture it, or their rights they have as a Individual or Business. 
 Note: Crazy I changed my life, found a higherpower, got sober, graduated college, taught myself Open-Source, earned 100s of certificates from the best of the best. And i find out, the Companies we all love and know are worse doing worse then the Killers I grew up with in Gary and Chicago. They wouldnt even do the things that are occuring in ky system, to their worst enemy.
+
+
 "Just because im a good guy, Dont Mistake my Kindness for Weakness" ~~Al Capone~~~
+
+Note: Contacted 15+ Book Publisher Agencies, compare my notes to other Books, with the way I right and teach, add in defense and offense, every language = one day some of the sickest Books every.
 
 
