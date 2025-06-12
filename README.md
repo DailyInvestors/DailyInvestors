@@ -144,4 +144,4 @@ Note: Crazy I changed my life, found a higherpower, got sober, graduated college
 
 Note: Contacted 15+ Book Publisher Agencies, compare my notes to other Books, with the way I right and teach, add in defense and offense, every language = one day some of the sickest Books every.
 
-
+Visual Studio Today, TTYL
