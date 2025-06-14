@@ -133,6 +133,7 @@ Github && MooMoo
 114. Certified now in Prompt Injections 
 115. Certified now for Stealth Enumertions 100++++
 116. (gdb) Debugger.
+117. Lib, LibC Gcc
 24. Tryong to Start a 
 DEVELOPERS UNION
 
