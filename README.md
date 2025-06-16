@@ -135,6 +135,7 @@ Github && MooMoo
 116. (gdb) Debugger.
 117. Lib, LibC Gcc
 ¹¹⁸. ShellCodes 🤖 
+¹1⁹ Agents
 24. Tryong to Start a 
 DEVELOPERS UNION
 
