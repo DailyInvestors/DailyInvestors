@@ -134,6 +134,7 @@ Github && MooMoo
 115. Certified now for Stealth Enumertions 100++++
 116. (gdb) Debugger.
 117. Lib, LibC Gcc
+¹¹⁸. ShellCodes 🤖 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
