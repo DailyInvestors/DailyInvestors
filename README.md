@@ -1,6 +1,6 @@
 ¹. AI Expert
 ² Programmer 
-³ Cyber Security 
+³ Security 
 1. Python 
 2. node.js
 3. JavaScript 
