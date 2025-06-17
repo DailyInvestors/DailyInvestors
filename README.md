@@ -1,4 +1,5 @@
 ¹. AI Expert
+² Programmer 
 1. Python 
 2. node.js
 3. JavaScript 
