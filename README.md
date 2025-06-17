@@ -150,4 +150,71 @@ To Anyone and Everyone.
       I got a couple days of reading to go. Was raised if you do something, do it right the First Time or try your Best. I contacted a few Businesses, if you want anything Built. You have to go through GitHub @First to establish communication. However, toss them your 💡, and I will make you a preview model -security basically, it will be Public on GitHub. However, I am going to be Busy the Next few Days. I got a couple Books I want to finish and Power Read. I will after that be on My Testing, Patching, Patches, and start getting in on any if the Flows. pretty sure my attackers are going to leave me alone. I am not on BS with anybody. No different then any of yal, trying to figure how to get better and make $. All my problems, I hate to say it. $ is the only way to get out , take care of my loved ones, and focus on a Better Life 🧬. In the future, Ill put ky life into Books, and yal will be like 😱😳, but woth my past, that is my motivation to Never Give Up, Keep Studying , Patching, and available for Any Technology Job as long as I think, feel, know I can handle it.
 
 
-Note: New War, My Rates Went Up Now
+References:
+1.Perplexity 
+https://docs.perplexity.ai/home
+
+https://www.perplexity.ai/help-center/en/articles/10354975-getting-started-with-perplexity
+
+
+API Integration:  
+https://github.com/LouminAILabs/perplexity-projects
+
+-LlamaIndex Cookbook Example for Perplexity API:  
+https://docs.llamaindex.ai/en/stable/examples/llm/perplexity/
+
+Perplexity AI API Documentation | Complete Guide 2025 - BytePlus https://www.byteplus.com/en/topic/536561
+
+
+
+2.Gemini
+- Gemini API Cookbook: 
+https://github.com/google-gemini/cookbook
+
+-Official Gemini API Docs:  
+https://ai.google.dev/gemini-api/docs
+
+-Gemini API Reference:  
+  https://ai.google.dev/api
+
+-Google AI Studio:  
+  https://aistudio.google.com
+
+
+3.Copilot 
+https://learn.microsoft.com/en-us/training/modules/generate-documentation-using-github-copilot-tools/
+
+4.ChatGPT
+OpenAI ChatGPT Documentation: 
+https://platform.openai.com/docs/guides/gpt
+
+OpenAI Cookbook:  
+https://github.com/openai/openai-cookbook
+
+
+5.DeepSeek
+https://deep-seek.chat/docs/api/[3]
+
+https://github.com/langfuse/langfuse-docs/blob/main/cookbook/integration_deepseek_openai_sdk.ipynb
+
+6.GitHub CoPilot
+https://docs.github.com/en/copilot/copilot-chat-cookbook
+
+7. Gemma
+
+Official Gemma Documentation:  
+https://ai.google.dev/gemma/docs
+
+Gemma Cookbook (examples and guides):  
+https://github.com/google/gemma-cookbook
+
+Gemma Model Card & Model Hub (for weights, usage, and details):  
+https://huggingface.co/google/gemma-2b  
+https://huggingface.co/google/gemma-7b
+
+Gemma on Kaggle: 
+https://www.kaggle.com/models/google/gemma
+
+
+
+
