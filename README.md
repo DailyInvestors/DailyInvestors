@@ -138,6 +138,15 @@ Github && MooMoo
 117. Lib, LibC Gcc
 ¹¹⁸. ShellCodes 🤖 
 ¹1⁹ Agents
+120. Reverse Engineering 
+122. Auditing
+123. Policies & Procedures 
+124. Rules & Laws
+125. ai.dev/visual.studio
+126. Home Security 
+127. Background Checks
+128. Human Research 
+
 24. Tryong to Start a 
 DEVELOPERS UNION
 
