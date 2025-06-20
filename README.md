@@ -231,4 +231,4 @@ https://www.kaggle.com/models/google/gemma
 
 
 
-
+For Future Clients: I dont charge for the programs, all prices are under Service Fees.
