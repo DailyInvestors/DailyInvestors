@@ -231,6 +231,61 @@ https://www.kaggle.com/models/google/gemma
 
 
 
-For Future Clients: I dont charge for the programs, all prices are under Service Fees.
+👾Lets Talk Business?? What can I do for you or your Company🐒
 
-Note: Lets talk Business, to be honest I dont want to build AIs. Nut business is business, and Skills Cost Money. You must Go Through GitHub. Minimum for any contract 1m for your Set amount upon negotiation. I am my own lay advocate on this matter. If you wish you can have your attorney talk to me. I am not selling my business, or my name. Studied yo Hard. Now as I know 5plus Languages, and one way ir another ill get paid on Testing. Contract Only set amount. Will make a Model upon Request. If you wish yo make it a Open-Source, in down. However, one man Team. Me and my Hundred AIs. I have certificates for everything, to build and test, and my own Security and and will be custom encrypted. And even though the Brokest SecDevOps, I do own Cyborg Tek legitimately with the IRS. And thats exactly what I build, Cyborgs. But any project must in be in stipulations of my Govs Laws.
+1. Develop AIs
+2. Develop Agents
+3. Secure your Site
+4. Harden Your Systems
+5. Build Custom Websites
+6. Add in JavaScript features
+7. Debug
+8. Decompile and Compile Bytes
+9. Test AIs
+10. Develop Apps, Games.
+11. Custom Security 
+12. Employee Training
+13. Teach your Finances, how to invest
+14. Any Microsoft 365 Product 
+15. Will do any Freelance Task, or Automate it.
+16. Build you a Agent, to automate all your Tasks.
+17. Audits: Inside and Out
+18. Anything Google including Google SecOps, Cloud, Develop, Create, Ads
+19. Advertising at my level
+20. Review's 
+21. Background Checks
+22. Research Investigations
+23. Cyber Security Training
+24. Educational Courses
+24. Make Agents to do everything your staff Should!
+25. Monitor and Log 
+26. Patch and Repair
+27. Remote Work
+28. Contract Work
+29. Home/Office Security 
+30. Policy's and Procedures
+31. Custom Rule Sets
+32. Firewall Hardenings
+33. Self-Learning Agents
+34. Python
+35. Java
+36. HTML
+37. CSS.
+38. React 
+39. Bash
+40. Anything Digital 
+42. Lisencing { Create, or Place your Logo in my Projects }
+43. And so much More.......
+
+DailysDailyNews is my other Profile. 
+Owner of Cyborg Tek.
+Certified 
+Open-Sourced Education { Which I have learned more through Open-Source then my entire time in College for a CSCU }
+My opinion, all Security needs to have customized Robots to help monitor and secure. All systems including Mobile Devices need iptables configured with forwards and Proximities.
+
+Depending on Job: 
+Will Develop a Preview Model before any contract is signed. This way you can get a Free Demo. 
+If you wish for AIs, if it is one custom it will Cost. If it is a set contract for so many different models in different frameworks, minimum amount 1 million, however per the set time span, end date. We can come up with a Number for the set amount you want developed. To enhance the speed features, I will create Agents to create and randomize the functions and functionality of these. So instead of 100 workers, I make AIs to make my AIs all under my Supervision and 👁️. 
+Contact me through GitHub, for your Protection and Mine. If it is related to a collaboration, my email is posted.
+Thank You
+And Happy Hunting Yal
