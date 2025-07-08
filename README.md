@@ -148,145 +148,51 @@ Github && MooMoo
 128. Human Research 
 129. Google SecOps
 130. ADK, SDK's
+131. Binaries
+132. SubMenus
+133. Sub Directories 
+134. Automate Anything
+
 
 24. Tryong to Start a 
 DEVELOPERS UNION
 
-1111: Seeking Serious Investors Only! 
-Long Term, Short Term, Projects, Consulting, Developing, Testing, Coaching, Training, Books, Courses, AIs, DevOps.
+
+
+🪄 ✨ 👾Let's Talk on how I can help your Business?? Then why you should choose me for Freelancing Services or Contract Work???
+1. Web Development, Testing & Validation 
+2. Application Developer
+3. Cyber Security 
+4. Any Google or Microsoft Product. Need something types, transfered, converted, researched, tested. We will get to it instantly.
+5. Risk Management: We will help you get your business back to your Business. { Audits, Hardware/System, Employees, Background Checks, Research, Spidering, Laws & Policies, Rule Sets, Validation, Traps, Interviews, etc.
+6. AI Expert { Custom Training, Building, Development, Testing, Repairing}
+7. Custom Courses
+8. Employee Training
+9. Advertising 
+10. Google SecOps
+11. Microsoft Admin
+12. Linux Expert 
+13. Home Security 
+14. Designing 
+15. Video Editing/Creating
+16. Consultation 
+17. Mobile Game Development 
+18. Python, Java, Node, Bash, HTML, CSS, etc. My Strengths { Python, Java, Bash}
+19. Red Team/Blue Team
+20. Will Take on anything Digital, if we can't do it. I'll get on LinkedIn Learning, and Learn It. No job it to Big or Small.
+21. Human Research { Example: Is my girlfriend cheating?? Is my coworker stealing??}
+22. Agents, Can Create, Test, Modify, Manipulate for Anything 👁️‍🗨️
+23. Visual Studio
+24. Google Studio
+
+🚨 Note: I am the Sole Owner of Cyborg Tek. 
 
 
 
 
 
-"Just because im a good guy, Dont Mistake my Kindness for Weakness" ~~Al Capone~~~
+"Just because im a nice guy, Dont Mistake my Kindness for Weakness" ~~Al Capone~~~
 
 
 
 
-
-References:
-1.Perplexity 
-https://docs.perplexity.ai/home
-
-https://www.perplexity.ai/help-center/en/articles/10354975-getting-started-with-perplexity
-
-
-API Integration:  
-https://github.com/LouminAILabs/perplexity-projects
-
--LlamaIndex Cookbook Example for Perplexity API:  
-https://docs.llamaindex.ai/en/stable/examples/llm/perplexity/
-
-Perplexity AI API Documentation | Complete Guide 2025 - BytePlus https://www.byteplus.com/en/topic/536561
-
-
-
-2.Gemini
-- Gemini API Cookbook: 
-https://github.com/google-gemini/cookbook
-
--Official Gemini API Docs:  
-https://ai.google.dev/gemini-api/docs
-
--Gemini API Reference:  
-  https://ai.google.dev/api
-
--Google AI Studio:  
-  https://aistudio.google.com
-
-
-3.Copilot 
-https://learn.microsoft.com/en-us/training/modules/generate-documentation-using-github-copilot-tools/
-
-4.ChatGPT
-OpenAI ChatGPT Documentation: 
-https://platform.openai.com/docs/guides/gpt
-
-OpenAI Cookbook:  
-https://github.com/openai/openai-cookbook
-
-
-5.DeepSeek
-https://deep-seek.chat/docs/api/[3]
-
-https://github.com/langfuse/langfuse-docs/blob/main/cookbook/integration_deepseek_openai_sdk.ipynb
-
-6.GitHub CoPilot
-https://docs.github.com/en/copilot/copilot-chat-cookbook
-
-7. Gemma
-
-Official Gemma Documentation:  
-https://ai.google.dev/gemma/docs
-
-Gemma Cookbook (examples and guides):  
-https://github.com/google/gemma-cookbook
-
-Gemma Model Card & Model Hub (for weights, usage, and details):  
-https://huggingface.co/google/gemma-2b  
-https://huggingface.co/google/gemma-7b
-
-Gemma on Kaggle: 
-https://www.kaggle.com/models/google/gemma
-
-
-
-👾Lets Talk Business?? What can I do for you or your Company🐒
-
-1. Develop AIs
-2. Develop Agents
-3. Secure your Site
-4. Harden Your Systems
-5. Build Custom Websites
-6. Add in JavaScript features
-7. Debug
-8. Decompile and Compile Bytes
-9. Test AIs
-10. Develop Apps, Games.
-11. Custom Security 
-12. Employee Training
-13. Teach your Finances, how to invest
-14. Any Microsoft 365 Product 
-15. Will do any Freelance Task, or Automate it.
-16. Build you a Agent, to automate all your Tasks.
-17. Audits: Inside and Out
-18. Anything Google including Google SecOps, Cloud, Develop, Create, Ads
-19. Advertising at my level
-20. Review's 
-21. Background Checks
-22. Research Investigations
-23. Cyber Security Training
-24. Educational Courses
-24. Make Agents to do everything your staff Should!
-25. Monitor and Log 
-26. Patch and Repair
-27. Remote Work
-28. Contract Work
-29. Home/Office Security 
-30. Policy's and Procedures
-31. Custom Rule Sets
-32. Firewall Hardenings
-33. Self-Learning Agents
-34. Python
-35. Java
-36. HTML
-37. CSS.
-38. React 
-39. Bash
-40. Anything Digital 
-42. Lisencing { Create, or Place your Logo in my Projects }
-43. And so much More.......
-
-DailysDailyNews is my other Profile. 
-Owner of Cyborg Tek.
-Certified 
-Open-Sourced Education { Which I have learned more through Open-Source then my entire time in College for a CSCU }
-My opinion, all Security needs to have customized Robots to help monitor and secure. All systems including Mobile Devices need iptables configured with forwards and Proximities.
-
-Depending on Job: 
-Will Develop a Preview Model before any contract is signed. This way you can get a Free Demo. 
-If you wish for AIs, if it is one custom it will Cost. If it is a set contract for so many different models in different frameworks, minimum amount 1 million, however per the set time span, end date. We can come up with a Number for the set amount you want developed. To enhance the speed features, I will create Agents to create and randomize the functions and functionality of these. So instead of 100 workers, I make AIs to make my AIs all under my Supervision and 👁️. 
-Contact me through GitHub, for your Protection and Mine. If it is related to a collaboration, my email is posted.
-Thank You
-And Happy Hunting Yal
