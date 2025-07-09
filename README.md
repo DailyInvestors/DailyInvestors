@@ -152,7 +152,8 @@ Github && MooMoo
 132. SubMenus
 133. Sub Directories 
 134. Automate Anything
-135. Red Hat Limux
+135. Red Hat Linux
+136. Token && Certificate Verification/Validation 🪄 
 
 
 24. Tryong to Start a 
