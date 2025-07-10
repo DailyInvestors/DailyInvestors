@@ -1,6 +1,7 @@
 ¹. AI Expert
 ² Programmer 
 ³ Security 
+⁴ Validator 
 1. Python 
 2. node.js
 3. JavaScript 
