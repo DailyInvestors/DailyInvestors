@@ -157,7 +157,7 @@ Github && MooMoo
 136. Token && Certificate Verification/Validation 🪄 
 137. Pam/Pam RuleSets/Config
 138. Server Security such as remocing SUID's. Enforcing sudo over su for archives.
-139. gcc compiler at a intermediate level 
+139. gcc compiler at a intermediate level " Note: Always place your custom Flags inside /specs File"
 
 
 24. Tryong to Start a 
