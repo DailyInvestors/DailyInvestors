@@ -156,6 +156,7 @@ Github && MooMoo
 135. Red Hat Linux
 136. Token && Certificate Verification/Validation 🪄 
 137. Pam/Pam RuleSets/Config
+138. Server Security such as remocing SUID's. Enforcing sudo over su for archives.
 
 
 24. Tryong to Start a 
